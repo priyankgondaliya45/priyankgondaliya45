@@ -10,7 +10,7 @@ A backend developer with a total experience of 12 years and I am in love with My
 * ✉️  You can contact me at [priyankgondaliya45@gmail.com](mailto:priyankgondaliya45@gmail.com)
 * 🧠  I'm learning NodeJS, Python
 * 🤝  I'm open to collaborating on Projects
-* ⚡  12 years of making coffee nervous and code nervous-er. I speak fluent Laravel, MySQL and Sarcasm. When I'm not debugging, I'm usually trying to figure out where the semicolon went wrong
+* ⚡  13 years of making coffee nervous and code nervous-er. I speak fluent Laravel, MySQL and Sarcasm. When I'm not debugging, I'm usually trying to figure out where the semicolon went wrong
 
 <a href="https://www.github.com/priyankgondaliya45" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/priyankgondaliya45?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
