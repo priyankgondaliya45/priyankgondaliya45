@@ -27,10 +27,14 @@ src="https://img.shields.io/github/followers/priyankgondaliya45?logo=github&styl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/priyankgondaliya45"><img src="https://github-readme-stats.vercel.app/api?username=priyankgondaliya45&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="priyankgondaliya45's GitHub stats" /></a>
+<a href="http://www.github.com/priyankgondaliya45"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankgondaliya45&theme=2077" alt="priyankgondaliya45's GitHub stats" /></a>
 
-<a href="http://www.github.com/priyankgondaliya45"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankgondaliya45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/priyankgondaliya45"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyankgondaliya45&theme=2077" alt="priyankgondaliya45's Stats" /></a>
+
+<a href="http://www.github.com/priyankgondaliya45"><img src="https://streak-stats.demolab.com/?user=priyankgondaliya45&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/priyankgondaliya45"><img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankgondaliya45&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/priyankgondaliya45" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankgondaliya45&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/priyankgondaliya45" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyankgondaliya45&theme=2077" alt="Top Languages by Repo" /></a>
+
+<a href="https://github.com/priyankgondaliya45" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyankgondaliya45&theme=2077" alt="Top Languages by Commit" /></a>
